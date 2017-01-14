@@ -1,0 +1,1 @@
+#basicResources button,.capitalize{text-transform:capitalize}#goldRow,#versionAlert{display:none}#impexpField{width:100%}// TODO: hide scrollbar on chrome; probably should handle it for other browers or remove it entirely ::-webkit-scrollbar{display:none}.hide{display:none!important}.img-icon{display:inline-block;width:1.5rem;height:1.5rem;fill:#000;filter:invert(100%)}
